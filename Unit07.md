@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON102: Principles of Macroeconomics"
+course_description: "An exploration of the factors that impact the overall performance of economies. The course focuses on public policies helping and hindering the achievement of intended outcomes, such as reducing unemployment or increasing trade."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Labor Market** <span id="7"></span> 
 *In microeconomics, the four factors of production are usually
 identified as land, capital, entrepreneurial talent, and labor.  Using

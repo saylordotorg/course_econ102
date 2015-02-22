@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON102: Principles of Macroeconomics"
+course_description: "An exploration of the factors that impact the overall performance of economies. The course focuses on public policies helping and hindering the achievement of intended outcomes, such as reducing unemployment or increasing trade."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Aggregate Demand and Supply** <span id="4"></span> 
 *Since macroeconomics studies the whole economy, it looks at the main
 forces affecting growth, inflation, and unemployment by aggregating, or

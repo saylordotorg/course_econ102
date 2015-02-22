@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON102: Principles of Macroeconomics"
+course_description: "An exploration of the factors that impact the overall performance of economies. The course focuses on public policies helping and hindering the achievement of intended outcomes, such as reducing unemployment or increasing trade."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "ECON102: Principles of Macroeconomics"
 -----------------------------------------------------------
 

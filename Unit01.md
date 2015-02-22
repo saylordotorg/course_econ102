@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON102: Principles of Macroeconomics"
+course_description: "An exploration of the factors that impact the overall performance of economies. The course focuses on public policies helping and hindering the achievement of intended outcomes, such as reducing unemployment or increasing trade."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Macroeconomics** <span id="1"></span> 
 *To build a solid house, one needs a solid foundation.  In
 macroeconomics, this foundation centers on a few key questions: How do

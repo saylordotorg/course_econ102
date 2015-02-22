@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON102: Principles of Macroeconomics"
+course_description: "An exploration of the factors that impact the overall performance of economies. The course focuses on public policies helping and hindering the achievement of intended outcomes, such as reducing unemployment or increasing trade."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: The Money Supply and the Monetary Policy** <span
 id="6"></span> 
 *What is money?  Most people probably think of bills and coins, but in

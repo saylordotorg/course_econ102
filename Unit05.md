@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON102: Principles of Macroeconomics"
+course_description: "An exploration of the factors that impact the overall performance of economies. The course focuses on public policies helping and hindering the achievement of intended outcomes, such as reducing unemployment or increasing trade."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Government and Fiscal Policy** <span id="5"></span> 
 *What effect does a government have on an economy?  Through its ability
 to tax, a government takes away a proportion of its people’s income, but

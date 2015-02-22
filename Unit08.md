@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON102: Principles of Macroeconomics"
+course_description: "An exploration of the factors that impact the overall performance of economies. The course focuses on public policies helping and hindering the achievement of intended outcomes, such as reducing unemployment or increasing trade."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Economic Growth** <span id="8"></span> 
 *What determines economic growth?  Is it an increase in land use or
 capital?  What role does productivity play in economic growth?  What

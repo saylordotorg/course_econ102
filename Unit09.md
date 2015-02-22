@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON102: Principles of Macroeconomics"
+course_description: "An exploration of the factors that impact the overall performance of economies. The course focuses on public policies helping and hindering the achievement of intended outcomes, such as reducing unemployment or increasing trade."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: The Developing World** <span id="9"></span> 
 *Less developed countries (LDCs) face a number of obstacles both in
 obtaining needed resources and in making better use of their current

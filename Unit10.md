@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON102: Principles of Macroeconomics"
+course_description: "An exploration of the factors that impact the overall performance of economies. The course focuses on public policies helping and hindering the achievement of intended outcomes, such as reducing unemployment or increasing trade."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: International Trade** <span id="10"></span> 
 *Why do nations trade goods and services with each other?  How do they
 decide what to export and what to import?  Should nations protect their

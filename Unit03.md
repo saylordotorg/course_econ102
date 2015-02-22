@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON102: Principles of Macroeconomics"
+course_description: "An exploration of the factors that impact the overall performance of economies. The course focuses on public policies helping and hindering the achievement of intended outcomes, such as reducing unemployment or increasing trade."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Unemployment and Inflation** <span id="3"></span> 
 *The average person understands the economic concepts of unemployment
 and inflation: unemployment reflects number of people out of work, and
