@@ -1,6 +1,17 @@
 Course Syllabus for "ECON102: Principles of Macroeconomics"
 -----------------------------------------------------------
 
+**Please note: A fully-supported version of ECON102 is available at 
+https://learn.saylor.org/course/econ102/. This [legacy version](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) of ECON102 does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_econ102) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 Economics is traditionally divided into two parts: microeconomics and
 macroeconomics.  The purpose of this course is to provide you with a
 fundamental understanding of the principles of macroeconomics. 
