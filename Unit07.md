@@ -92,7 +92,7 @@ id="7.1.2"></span> 
 
     Link: PEOI.org: John Petroff’s *Macroeconomics*: [“Chapter 7:
     Classical – Keynesian
-    Controversy”](http://www.saylor.org/site/wp-content/uploads/2012/06/Classical-Keynesian-Controversey.pdf) (PDF)  
+    Controversy”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Classical-Keynesian-Controversey.pdf) (PDF)  
       
      Instructions: Read this chapter in its entirety.  This chapter also
     covers the topics outlined in sub-subunits 7.2.1 and 7.2.2.  
@@ -172,7 +172,7 @@ id="7.3"></span> 
 
     Link: *Principles of Macroeconomics*: [“Chapter 16, Sections 2-3:
     Inflation and
-    Unemployment”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Unemployment”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: Read Chapter 16, which will teach you about the
     Phillips curve, a short-run tradeoff between inflation and
@@ -205,7 +205,7 @@ curve.*
 
     Link: PEOI.org: John Petroff’s *Macroeconomics*: [“Chapter 14:
     Unemployment vs.
-    Inflation”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter-14-Unemployment-vs-Inflation.pdf) (PDF)
+    Inflation”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter-14-Unemployment-vs-Inflation.pdf) (PDF)
     and [“Review
     Quiz”](http://www.peoi.org/Courses/Coursesen/mac/fram14.html) (HTML)  
       

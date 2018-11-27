@@ -62,7 +62,7 @@ Upon successful completion of this unit, the student will be able to:
     Economic Growth”**
     Link: PEOI.org: John Petroff’s *Macroeconomics:* “[Chapter 15:
     Economic
-    Growth](http://www.saylor.org/site/wp-content/uploads/2012/06/Chapter-15-Economic-Growth-Petroff.pdf)”
+    Growth](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Chapter-15-Economic-Growth-Petroff.pdf)”
     (PDF)  
         
      Instructions: Complete the linked reading, keeping in mind that
@@ -108,7 +108,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: *Principles of Macroeconomics:* [“Chapter 2, Section 1:
     Factors of
-    Production”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Production”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: Read this section to learn about the conditions
     needed for economic growth.  This reading covers subunits
@@ -180,7 +180,7 @@ dividing total output by the costs of the input (labor resource).*
 -   **Reading: The Saylor Foundation: EconomyWatch’s “U.S. Economic
     Profile”**
     Link: The Saylor Foundation: EconomyWatch’s [“U.S. Economic
-    Profile”](http://www.saylor.org/site/wp-content/uploads/2012/07/US-Economy-Profile.pdf) (PDF)  
+    Profile”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/US-Economy-Profile.pdf) (PDF)  
       
      Instructions: Please read this article on the trend of real GDP
     growth rate in the United States.  
@@ -194,7 +194,7 @@ dividing total output by the costs of the input (labor resource).*
 
     Link: Board of Governors of the Federal Reserve System: Chairman Ben
     S. Bernanke’s [“Speech Transcript: U.S. Economic Growth
-    Outlook”](http://www.saylor.org/site/wp-content/uploads/2012/07/US-Economic-Outlook-Bernanke.pdf) (PDF)  
+    Outlook”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/US-Economic-Outlook-Bernanke.pdf) (PDF)  
       
      Instructions: Read the transcript of Federal Reserve Chairman Ben
     S. Bernanke’s speech from the International Monetary Conference in

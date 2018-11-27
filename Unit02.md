@@ -96,7 +96,7 @@ Upon successful completion of this unit, the student will be able to:
     Measuring Total Output”**
     Link: *Principles of Macroeconomics*: [“Chapter 6, Section 1:
     Measuring Total
-    Output”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Output”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: This section describes the Gross Domestic Product
     (GDP) as a measure of final goods and services using expenditure. 
@@ -119,7 +119,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: *Principles of Macroeconomics*: [“Chapter 6: Measuring Total
     Output and
-    Income”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Income”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: Read this chapter, which is about measuring total
     output and income.  This material concentrates on the purpose and
@@ -151,7 +151,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: *Principles of Macroeconomics:* [“Chapter 6: Measuring Total
     Output and
-    Income”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Income”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: Scroll down to and read the section entitled “Final
     Goods and Value Added.”  Final goods and services are finished
@@ -179,7 +179,7 @@ Upon successful completion of this unit, the student will be able to:
     National Income Accounting”**
     Link: PEOI.org: John Petroff’s *Macroeconomic*s: [“Chapter 5:
     National Income
-    Accounting”](http://www.saylor.org/site/wp-content/uploads/2012/06/Chapter-5-National-Income-Accounting-Petroff.pdf) (PDF)  
+    Accounting”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Chapter-5-National-Income-Accounting-Petroff.pdf) (PDF)  
       
      Instructions: Scroll down to and read the information on Gross
     National Product and Gross Domestic Product.  Gross Domestic Product
@@ -224,7 +224,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: *Principles of Macroeconomics*: [“Chapter 6, Section 2:
     Measuring Total
-    Income”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Income”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: This section details the computational method for
     calculating total output in the economy using income.  Please
@@ -361,7 +361,7 @@ id="2.6.4"></span> 
     GDP and Economic Well Being”**
     Link: *Principles of Macroeconomics*: [“Chapter 6, Section 3: GDP
     and Economic Well
-    Being”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Being”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: Read this section to learn about the limitations of
     the GDP statistics.  Since GDP exclusively measures the expenditures
@@ -415,9 +415,9 @@ id="2.6.4"></span> 
     Link: Massachusetts Institute of Technology’s OpenCourseWare:
     *Principles of Macroeconomics* Lecture Notes: [“L2 (Measuring
     macroeconomic
-    variables)”](http://www.saylor.org/site/wp-content/uploads/2012/07/MIT-OCW-MACRO-L2-PDF.pdf) and [“L3-L4
+    variables)”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MIT-OCW-MACRO-L2-PDF.pdf) and [“L3-L4
     (Production and the labor
-    market)”](http://www.saylor.org/site/wp-content/uploads/2012/07/MIT-OCW-MACRO-L3L4-PDF.pdf) (PDF)  
+    market)”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/MIT-OCW-MACRO-L3L4-PDF.pdf) (PDF)  
       
      Instructions: This is an optional reading.  Read through the notes
     in these links for a review of the material covered in units 1 and

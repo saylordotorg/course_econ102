@@ -66,7 +66,7 @@ Upon successful completion of this unit, the student will be able to:
     Nature and Creation of Money”**
     Link: *Principles of Macroeconomics*: [“Chapter 9, Sections 1-2:
     Nature and Creation of
-    Money”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Money”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: Read sections 1 and 2 of chapter 9, including the
     introduction.  This material will cover subunits 6.1, 6.2, and all
@@ -197,7 +197,7 @@ id="6.2.2"></span> 
     Stock Measures of Money Supply of M1 and M2 for the Year 2011”**
     Link: The Federal Reserve’s [“Statistical Release H6: Money Stock
     Measures of Money Supply of M1 and M2 for the Year
-    2011”](http://www.saylor.org/site/wp-content/uploads/2012/07/Federal-Reserve-Statistical-Release.pdf) (PDF)  
+    2011”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Federal-Reserve-Statistical-Release.pdf) (PDF)  
       
      Instructions: This report by the Federal Reserve differentiates
     between the various levels of the money supply from one period of
@@ -290,7 +290,7 @@ id="6.2.3"></span> 
 -   **Reading: Federalreserveeducation.org’s “History of the Federal
     Reserve”**
     Link: Federalreserveeducation.org’s“[History of the Federal
-    Reserve](http://www.saylor.org/site/wp-content/uploads/2012/07/Everyday-Economics-Upload.pdf)”
+    Reserve](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Everyday-Economics-Upload.pdf)”
     (PDF)  
         
      Instructions: Read this article for a chronological study of how
@@ -311,7 +311,7 @@ id="6.3.2"></span> 
     The Federal Reserve System”**
     Link: *Principles of Macroeconomics*: [“Chapter 9, Section 3: The
     Federal Reserve
-    System”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    System”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: Read section 3 of chapter 9, which will cover
     subunits 6.3.2 and 6.3.3.  
@@ -329,9 +329,9 @@ id="6.3.2"></span> 
     Money”**
 
     Link: PEOI.org: John Petroff’s *Macroeconomics*: [“Chapter 10:
-    Money”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter-10-Money.pdf) (PDF)
+    Money”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter-10-Money.pdf) (PDF)
     and [“Chapter 10
-    Quiz”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter-10-Money-Quiz.pdf) (PDF)
+    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter-10-Money-Quiz.pdf) (PDF)
 
       
      Instructions: Review the material in the above section and then
@@ -346,7 +346,7 @@ id="6.3.2"></span> 
 **6.4 Three Tools of Monetary Policy** <span id="6.4"></span> 
 -   **Reading: Federal Reserve Bank of New York's “Monetary Policy”**
     Link: Federal Reserve Bank of New York’s [“Monetary
-    Policy”](http://www.saylor.org/site/wp-content/uploads/2012/07/Monetary-Policy.pdf) (PDF)  
+    Policy”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Monetary-Policy.pdf) (PDF)  
       
      Instructions: Read the section entitled “How does the Federal
     Reserve implement monetary policy?”  This material will cover
@@ -376,7 +376,7 @@ Federal Reserve Banks charge other banks to borrow money.*
     Monetary Policy”**
     Link: PEOI.org: John Petroff’s *Macroeconomics*: [“Chapter 12:
     Monetary
-    Policy”](http://www.saylor.org/site/wp-content/uploads/2012/07/Chapter-10-Monetary-Policy.pdf) (PDF)
+    Policy”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Chapter-10-Monetary-Policy.pdf) (PDF)
     and [“Chapter 12 Review
     Quiz”](http://www.peoi.org/Courses/Coursesen/mac/fram12.html) (HTML)  
       
@@ -393,7 +393,7 @@ Federal Reserve Banks charge other banks to borrow money.*
     Markets and the Economy”**
     Link: *Principles of Macroeconomics*: [“Chapter 10: Financial
     Markets and the
-    Economy”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Economy”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: Read this chapter its entirety to learn how financial
     markets fit into the model of aggregate demand and aggregate supply
@@ -554,7 +554,7 @@ id="6.6.2"></span> 
     Dizike’s “Explained: Quantitative Easing”**
     Link: Massachusetts Institute of Technology News: Peter Dizike’s
     [“Explained: Quantitative
-    Easing”](http://www.saylor.org/site/wp-content/uploads/2012/07/Quantitative-Easing-Explained.pdf) (PDF)  
+    Easing”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Quantitative-Easing-Explained.pdf) (PDF)  
       
      Instructions: Read the entire article to learn one of the
     unconventional policies that the government can adopt to stabilize
