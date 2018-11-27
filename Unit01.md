@@ -90,7 +90,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: PEOI.org: John Petroff’s *Macroeconomics*: [“Chapter 7:
     Classical-Keynesian
-    Controversy”](http://www.saylor.org/site/wp-content/uploads/2012/06/Classical-Keynesian-Controversey.pdf)
+    Controversy”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Classical-Keynesian-Controversey.pdf)
     (PDF)  
       
      Instructions: Read the entire chapter.  At the bottom of the page,
@@ -117,9 +117,9 @@ how equilibrium values change with curve shifts.*
     Supply” and “Chapter 4: Applications of Demand and Supply”**
 
     Link: *Principles of Macroeconomics*: [“Chapter 3: Demand and
-    Supply”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF) and
+    Supply”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF) and
     [“Chapter 4: Applications of Demand and
-    Supply”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Supply”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: Read these two chapters in their entirety to learn
     about demand and supply concepts.  
@@ -152,7 +152,7 @@ how equilibrium values change with curve shifts.*
     Demand and Supply”**
     Link: PEOI.org: John Petroff’s *Macroeconomics*: [“Chapter 3: Demand
     and
-    Supply](http://www.saylor.org/site/wp-content/uploads/2012/06/Chapter-3-Demand-and-Supply.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/06/Chapter-3-Demand-and-Supply.pdf)
+    Supply](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Chapter-3-Demand-and-Supply.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Chapter-3-Demand-and-Supply.pdf)
     (PDF)  
       
      Instructions: Read the entire chapter.  At the bottom of the page,
@@ -171,7 +171,7 @@ id="1.2.1"></span> 
     Growth of Real GDP and Business Cycles"**
     Link: *Principles of Macroeconomics*: [“Chapter 5, Section 1: Growth
     of Real GDP and Business
-    Cycles”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Cycles”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
         
      Instructions: Read the introduction and then read the first section
     in its entirety.  This material will provide you with a general
@@ -220,7 +220,7 @@ id="1.2.1"></span> 
     Price-Level Changes”**
     Link: *Principles of Macroeconomics*: [“Chapter 5, Section 2:
     Price-Level
-    Changes”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Changes”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
         
      Instructions: Read the second section, which serves as an
     introduction to price-level changes.  We will study it in depth
@@ -251,7 +251,7 @@ id="1.2.1"></span> 
 -   **Reading: *Principles of Macroeconomics*: “Chapter 5, Section 3:
     Unemployment”**
     Link: *Principles of Macroeconomics*: [“Chapter 5, Section 3:
-    Unemployment”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Unemployment”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
         
      Instructions: Read the third section, which serves as an
     introduction to unemployment.  We will study it in depth later in
@@ -269,7 +269,7 @@ id="1.2.1"></span> 
     Business Cycle”**
     Link: PEOI.org: John Petroff’s *Macroeconomics*: [“Chapter 6:
     Business
-    Cycle”](http://www.saylor.org/site/wp-content/uploads/2012/06/Chapter-6-The-Business-Cycle-Petroff.pdf)
+    Cycle”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Chapter-6-The-Business-Cycle-Petroff.pdf)
     (PDF)  
       
      Instructions: Read this material fo an overview of the concepts
@@ -313,7 +313,7 @@ id="1.2.1"></span> 
     Fiscal Policy”**
 
     Link: PEOI.org: John Petroff’s *Macroeconomics*: [“Chapter 9: Fiscal
-    Policy”](http://www.saylor.org/site/wp-content/uploads/2012/06/Chapter-9-Fiscal-Policy-Petroff.pdf)
+    Policy”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Chapter-9-Fiscal-Policy-Petroff.pdf)
     (PDF)  
       
      Instructions: Read this chapter, which identifies the policies
@@ -358,7 +358,7 @@ id="1.2.1"></span> 
     Link: U.S. Department of State: Christopher Conte and Albert R
     Karr’s *An Outline of the U.S. Economy*: [“Chapter 7: Monetary and
     Fiscal
-    Policy”](http://www.saylor.org/site/wp-content/uploads/2012/06/Chapter-7-Monetary-and-Fiscal-Policy-Conte-and-Karr.pdf) (PDF)  
+    Policy”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Chapter-7-Monetary-and-Fiscal-Policy-Conte-and-Karr.pdf) (PDF)  
       
      Instructions: Read this article by Christopher Conte, a former
     editor and reporter for the *Wall Street Journal*, and Albert R.
@@ -388,7 +388,7 @@ id="1.2.1"></span> 
     Economic Growth”**
     Link: PEOI.org: John Petroff’s *Macroeconomics*: [“Chapter 15:
     Economic
-    Growth”](http://www.saylor.org/site/wp-content/uploads/2012/06/Chapter-15-Economic-Growth-Petroff.pdf) (PDF)  
+    Growth”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Chapter-15-Economic-Growth-Petroff.pdf) (PDF)  
       
      Instructions: Read this chapter on economic growth, which explains
     why it is important for the government to define an appropriate

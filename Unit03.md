@@ -55,7 +55,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Professor Robert Schenk’s CyberEconomics: “The
     Unemployment Rate”**
     Link: Professor Robert Schenk’s *CyberEconomics*: [“The Unemployment
-    Rate”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON102-3.1.11.pdf) (PDF)  
+    Rate”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON102-3.1.11.pdf) (PDF)  
       
      Instructions: Read this note on the unemployment rate.  Click
     the [“Review”](http://www.saylor.org/content/econ_schenk/Measuring/review06a_01a.htm) link
@@ -73,7 +73,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Activity: Professor Robert Schenk’s CyberEconomics: “Exploring
     Unemployment”**
     Link: Professor Robert Schenk’s *CyberEconomics*: [“Exploring
-    Unemployment”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON102-3.1.12.pdf) (PDF)  
+    Unemployment”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON102-3.1.12.pdf) (PDF)  
       
      Instructions: This is an optional exercise, but you will likely
     find it rewarding as you further explore this topic.  Click on the
@@ -135,9 +135,9 @@ Upon successful completion of this unit, the student will be able to:
     Statistics” and “News Release: Employment Situation Monthly”**
 
     Link: U.S. Bureau of Labor Statistics: [“Unemployment
-    Statistics”](http://www.saylor.org/site/wp-content/uploads/2012/07/Unemployment-Statistics.pdf) (PDF)
+    Statistics”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Unemployment-Statistics.pdf) (PDF)
      and [“News Release: Employment Situation
-    Monthly”](http://www.saylor.org/site/wp-content/uploads/2012/07/Labor-Statistics-News-Release-Upload.pdf) (PDF).  
+    Monthly”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Labor-Statistics-News-Release-Upload.pdf) (PDF).  
       
      Instructions: Read the paragraph under “Unemployment” on this
     page.  Make sure to read each section in its entirety.  You may also
@@ -150,7 +150,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: The Saylor Foundation’s “Unemployment Rate”**
     Link: The Saylor Foundation’s [“Unemployment
-    Rate”](http://www.saylor.org/site/wp-content/uploads/2012/01/SAYLOR.ORG-ECON102-UNEMPLOYMENT-RATE.pdf) (PDF)  
+    Rate”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/SAYLOR.ORG-ECON102-UNEMPLOYMENT-RATE.pdf) (PDF)  
         
      Instructions: Read this text, which includes statistics from the
     Bureau of Labor Statistics, in order to get a better understanding
@@ -161,7 +161,7 @@ Upon successful completion of this unit, the student will be able to:
     Unemployment Statistics”**
     Link: Professor Robert Schenk’s *CyberEconomics*: [“Weaknesses of
     Unemployment
-    Statistics”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON102-3.1.4.pdf) (PDF)  
+    Statistics”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON102-3.1.4.pdf) (PDF)  
       
      Instructions: This reading explains the shortcomings of
     unemployment statistics.  Read it in entirety to learn about the
@@ -214,7 +214,7 @@ Upon successful completion of this unit, the student will be able to:
     Price-Level Changes”**
     Link: *Principles of Macroeconomics*: [“Chapter 5, Section 2:
     Price-Level
-    Changes”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Changes”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: Read the section entitled “Price Indexes” to learn
     how to compute some price indices.  This section focuses on the
@@ -363,7 +363,7 @@ sub-subunit 3.2.3.*
 
     Link: Australian Bureau of Statistics: *Consumer Price Index:
     Concepts, Sources, and Methods:* “[Chapter 4:  Price Index
-    Theory](http://www.saylor.org/site/wp-content/uploads/2012/11/Price-Index-Theory.pdf)”
+    Theory](https://resources.saylor.org/archived/wp-content/uploads/2012/11/Price-Index-Theory.pdf)”
     (PDF)  
         
      Instructions:  Click on the link above, and read Chapter 4 in its
@@ -405,7 +405,7 @@ different way.*
     Cleveland: Economic Commentary: “On the Costs of Inflation”**
     Link: Research Department of the Federal Reserve Bank of Cleveland:
     *Economic Commentary*: [“On the Costs of
-    Inflation”](http://www.saylor.org/site/wp-content/uploads/2012/07/Economic-Commentary-On-the-Cost-of-Inflation.pdf) (PDF)  
+    Inflation”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Economic-Commentary-On-the-Cost-of-Inflation.pdf) (PDF)  
       
      Instructions: Read the entire article, which discusses how
     inflation can distort the allocation of resources and adversely
@@ -502,7 +502,7 @@ different way.*
 
     Link: *Principles of Macroeconomics*: [“Chapter 16, Section 1:
     Relating Inflation and
-    Unemployment”](http://www.saylor.org/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Unemployment”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: Read this section for a discussion of inflation and
     unemployment.  The relationship between inflation and unemployment
