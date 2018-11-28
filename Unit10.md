@@ -70,7 +70,7 @@ Upon successful completion of this unit, the student will be able to:
 **10.2 Adam Smith and Absolute Advantage** <span id="10.2"></span> 
 -   **Reading: The Saylor Foundation: Wikipedia’s “Absolute Advantage”**
     Link: The Saylor Foundation: Wikipedia’s [“Absolute
-    Advantage”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Absolute-Advantage-Wikipedia.pdf) (PDF)  
+    Advantage”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Absolute-Advantage-Wikipedia.pdf) (PDF)  
       
      Instructions: Read this article, which examines Adam Smith’s theory
     of absolute advantage.  
