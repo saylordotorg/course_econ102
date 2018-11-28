@@ -82,7 +82,7 @@ computer.
  √    Have competency in the English language.  
 
 √    Have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 √    Have completed [ECON101: Principles of
 Microeconomics](http://www.saylor.org/courses/econ101/) from the [Core
@@ -184,7 +184,7 @@ for your Final Exam.
     as you progress through each resource box below.  
       
      Reading: *[Principles of
-    Macroeconomics](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf)* (PDF)  
+    Macroeconomics](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Macroeconomics.pdf)* (PDF)  
       
      Terms of Use: This text was adapted by The Saylor Foundation under
     a [Creative Commons Attribution-NonCommercial-Share-Alike 3.0

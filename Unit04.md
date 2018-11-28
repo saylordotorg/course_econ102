@@ -113,7 +113,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: *Principles of Macroeconomics*: [“Chapter 7: Aggregate Demand
     and Aggregate
-    Supply”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Supply”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: This reading will provide you with the details and
     examples needed to master aggregate demand and aggregate supply. 
@@ -132,7 +132,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Bureau of Economic Analysis: “Table 1.1.5: Gross Domestic
     Product”**
     Link: Bureau of Economic Analysis: [“Table 1.1.5: Gross Domestic
-    Product”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Table-1.1.5-Gross-Domestic-Product.pdf) (PDF)  
+    Product”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/Table-1.1.5-Gross-Domestic-Product.pdf) (PDF)  
         
      Instructions: This table contains statistics on various components
     of the GDP from 2010 to 2012.  Observe how the United States has
@@ -311,7 +311,7 @@ its savings is equal to its investments.*
 
     Link: *Principles of Macroeconomics*: [“Chapter 13: Consumption and
     the Aggregate Expenditures
-    Model”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Model”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: This chapter will cover subunits 4.2.1 and 4.2.2 and
     will show you how the aggregate demand curve can be derived from the

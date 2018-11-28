@@ -57,7 +57,7 @@ Upon successful completion of this unit, the student will be able to:
     1-2: Economic Development”**
     Link: *Principles of Macroeconomics*: [“Chapter 19, Sections 1-2:
     Economic
-    Development”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Development”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: Read this chapter to learn about the definition and
     characteristics of less developed countries and the Malthusian
@@ -127,7 +127,7 @@ unemployed or the individual will always be a low wage earner.*
 
     Link: *Principles of Macroeconomics*: [“Chapter 19, Section 3: Keys
     to Economic
-    Development”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Development”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: Read this section to study how an economy can
     progress towards economic development.  This reading covers

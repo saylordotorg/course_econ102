@@ -53,7 +53,7 @@ Upon successful completion of this unit, the student will be able to:
     Government and the Economy”**
     Link: *Principles of Macroeconomics*: [“Chapter 12, Section 1:
     Government and the
-    Economy”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Economy”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: This material elaborates on the major components of
     government spending and the sources of government revenue.  You will
@@ -77,7 +77,7 @@ Upon successful completion of this unit, the student will be able to:
     Fiscal Policy”**
 
     Link: PEOI.org: John Petroff’s *Macroeconomics*: [“Chapter 9: Fiscal
-    Policy”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Chapter-9-Fiscal-Policy-Petroff.pdf) (PDF)  
+    Policy”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Chapter-9-Fiscal-Policy-Petroff.pdf) (PDF)  
       
      Instructions: On the right side of the navigation bar, click on
     “Chapter 9: Fiscal Policy.”  This chapter discusses the concepts
@@ -138,7 +138,7 @@ government’s revenue to match its expenses.*
     The Use of Fiscal Policy to Stabilize the Economy”**
     Link: *Principles of Macroeconomics*: [“Chapter 12, Section 2: The
     Use of Fiscal Policy to Stabilize the
-    Economy”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Economy”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: This material will cover subunits 5.3.1 and 5.3.2.
      Read all of section 2 to learn about how the government’s fiscal
@@ -189,7 +189,7 @@ attain economic stability.*
 
     Link: *Principles of Macroeconomics*: [“Chapter 12, Section 3:
     Issues in Fiscal
-    Policy”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
+    Policy”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Macroeconomics.pdf) (PDF)  
       
      Instructions: Read all of this section, which will outline the
     problems that can arise in fiscal policy.  This section will also
